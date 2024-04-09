@@ -1,0 +1,13 @@
+body {
+    background-color: gold;
+    background-image: url(images.jpeg);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
